@@ -1,0 +1,4 @@
+GET /about HTTP/1.0
+
+Используя telnet выполните запрос к localhost на порт 8080. Параметры запроса: глагол get, страница /about, протокол http 1.0.
+Запишите ваш request в файл solution.
